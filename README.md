@@ -230,4 +230,7 @@ if (LIGADO == HIGH){
 //anteriorX = valorX;
 //delay (50);
 }
+
 ```
+### Projeto Pronto
+![Imagem](./imagens/projeto_pronto.jpg)
