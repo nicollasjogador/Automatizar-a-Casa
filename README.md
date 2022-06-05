@@ -23,6 +23,9 @@
 
 4 - Conclusão do Projeto;
 
+5 - Link do vídeo;
+
+
 # 1 - Introdução:
 
 Projeto desenvolvido para a disciplina Sistemas Embarcados da Fatec, visando implementar um sistema de baixo custo em comparação ao que encontra-se comercialmente (como CLP's) que tem como finalidade apresentar a possibilidade de **automação residencial** com o Arduino Mega, com interação simultanea de **fisica** (**_Interruptores Touch_**), quanto **virtualmente** (acesso pela rede com o **_Módulo Ethernet_**). 
@@ -50,7 +53,8 @@ No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em se
 ![Imagem](./imagens/TOUCH1.jpg)
 
 + Módulo Opto-acoplador;
- - Proteção das entradas digitais entre os componentes;
+
+#####  - Proteção das entradas digitais entre os componentes;
 
 ![Imagem](./imagens/PROTECAO_ALIMENTACAO13.jpg)
 
