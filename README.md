@@ -261,3 +261,15 @@ if (LIGADO == HIGH){
 Projeto com a montagem final em placa MDF para suporte/fixação dos componentes principais e interruptores touch, juntamente a uma maquete da planta baixa conectada aos saídas/relés do circuito para simulação do protótipo e interligado ao computador para controle por meio da conexão Ethernet 
 
 ![Imagem](./imagens/projetomontado.jpg)
+
+![Imagem](./imagens/pagina.jpg)
+
+![Imagem](./imagens/interruptor.jpg)
+
+![Imagem](./imagens/circuito.jpg)
+
+![Imagem](./imagens/casa.jpg)
+
+# 5 - Link do Vídeo
+
+[Projeto Funcionando](https://www.youtube.com/watch?v=zsscLPNTAK8)
