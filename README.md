@@ -25,10 +25,12 @@
 
 5 - Link do vídeo;
 
+----
+
 
 # 1 - Introdução:
 
-Projeto desenvolvido para a disciplina Sistemas Embarcados da Fatec, visando implementar e disponibilizar à comunidade um sistema de baixo custo  em comparação ao que encontra-se comercialmente (como CLP's) que tem como finalidade apresentar a possibilidade de **automação residencial** com o Arduino Mega, com interação simultanea de **fisica** (**_Interruptores Touch_**), quanto **virtualmente** (acesso pela rede com o **_Módulo Ethernet_**). 
+Projeto desenvolvido para a disciplina Sistemas Embarcados da FATEC - Jundiaí, visando implementar e disponibilizar à comunidade um sistema de baixo custo  em comparação ao que encontra-se comercialmente (como CLP's) que tem como finalidade apresentar a possibilidade de **automação residencial** com o Arduino Mega, com interação simultanea de **fisica** (**_Interruptores Touch_**), quanto **virtualmente** (acesso pela rede com o **_Módulo Ethernet_**). 
 
 
 No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em seu dispositivo, permitindo conexão por computador ou celular, (ou qualquer outra opção para WEB) para realizar a manobra das "cargas", respectivamente ao sistema de iluminação da residência no nosso caso.
