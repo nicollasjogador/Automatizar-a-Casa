@@ -1,16 +1,38 @@
-# Automatizar-a-Casa
+# SISTEMAS EMBARCADOS 
+ 1° Semestre - FATEC Jundiaí
+ 
+ Integrantes:
+ - Cristiano Francisco Correa;
+ - João Felipe Gustavo;
+ - Luis Gustavo do Santos Rosa;
+ - Nicollas de Oliveira Juliano;
+ - Rafael Massayoshi Hamazaki;
 ----
 
-## Introdução
+# Automatizar-a-Casa
+
+----
+
+# Sumário:
+
+1 - Introdução;
+
+2 - Materiais;
+
+3 - Código-Fonte;
+
+4 - Conclusão do Projeto;
+
+# 1 - Introdução:
 
 Projeto desenvolvido para a disciplina Sistemas Embarcados da Fatec, visando implementar um sistema de baixo custo em comparação ao que encontra-se comercialmente (como CLP's) que tem como finalidade apresentar a possibilidade de **automação residencial** com o Arduino Mega, com interação simultanea de **fisica** (**_Interruptores Touch_**), quanto **virtualmente** (acesso pela rede com o **_Módulo Ethernet_**). 
 
 
 No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em seu dispositivo, permitindo conexão por computador ou celular, (ou qualquer outra opção para WEB) para realizar a manobra das "cargas", respectivamente ao sistema de iluminação da residência no nosso caso.
 
-### Lista de Itens
+# 2 - Materiais utilizados:
 
-+ Arduino Mega;
++ Arduino Mega 2560;
 
 ![Imagem](./imagens/ARDUINO_MEGA2.jpg)
 
@@ -19,7 +41,7 @@ No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em se
 
 ![Imagem](./imagens/RELE1.jpg)
 
-+ Módulo Ethernet;
++ Módulo de Rede Ethernet W5500 ;
 
 ![Imagem](./imagens/ETHERNET.jpg)
 
@@ -27,7 +49,8 @@ No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em se
 
 ![Imagem](./imagens/TOUCH1.jpg)
 
-+ Proteção de Alimentação;
++ Módulo Opto-acoplador;
+ - Proteção das entradas digitais entre os componentes;
 
 ![Imagem](./imagens/PROTECAO_ALIMENTACAO13.jpg)
 
@@ -38,7 +61,7 @@ No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em se
 + Lâmpadas
 
 
-#### Código Utilizado 
+# 3 - Código-Fonte: 
 
 
 
@@ -232,5 +255,9 @@ if (LIGADO == HIGH){
 }
 
 ```
-### Projeto Pronto
+----
+# 4 - Conclusão do Projeto:
+
+Projeto com a montagem final em placa MDF para suporte/fixação dos componentes principais e interruptores touch, juntamente a uma maquete da planta baixa conectada aos saídas/relés do circuito para simulação do protótipo e interligado ao computador para controle por meio da conexão Ethernet 
+
 ![Imagem](./imagens/projeto_pronto.jpg)
