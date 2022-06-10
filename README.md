@@ -1,8 +1,3 @@
-----
-
-# Automatizar-a-Casa
-
-----
 # SISTEMAS EMBARCADOS 
  1° Semestre - FATEC Jundiaí
  
@@ -12,6 +7,10 @@
  - Luis Gustavo do Santos Rosa;
  - Nicollas de Oliveira Juliano;
  - Rafael Massayoshi Hamazaki;
+----
+
+# Automatizar-a-Casa
+
 ----
 
 # Sumário:
@@ -886,10 +885,9 @@ if (SIMULADOR == LOW){
 
 ```
 ----
-
 # 4 - Conclusão do Projeto:
 
-Projeto com a montagem final em placa MDF para suporte/fixação dos componentes principais e interruptores touch, juntamente a uma maquete da planta baixa conectada aos saídas/relés do circuito para simulação do protótipo e interligado ao computador para controle por meio da conexão Ethernet.
+Projeto com a montagem final em placa MDF para suporte/fixação dos componentes principais e interruptores touch, juntamente a uma maquete da planta baixa conectada as saídas/relés do circuito para simulação do protótipo e interligado ao computador para controle por meio da conexão Ethernet.
 
 ![Imagem](./imagens/projetomontado.jpg)
 
