@@ -1,4 +1,11 @@
-# SISTEMAS EMBARCADOS 
+
+----
+
+# Automatizar-a-Casa
+
+----
+
+ SISTEMAS EMBARCADOS 
  1° Semestre - FATEC Jundiaí
  
  Integrantes:
@@ -7,12 +14,8 @@
  - Luis Gustavo do Santos Rosa;
  - Nicollas de Oliveira Juliano;
  - Rafael Massayoshi Hamazaki;
-----
-
-# Automatizar-a-Casa
 
 ----
-
 # Sumário:
 
 1 - Introdução;
