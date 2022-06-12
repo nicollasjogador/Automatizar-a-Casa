@@ -38,6 +38,8 @@ Projeto desenvolvido para a disciplina Sistemas Embarcados da FATEC - Jundiaí, 
 
 No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em seu dispositivo, permitindo conexão cabeada por computador, ou celular pelo roteador (ou qualquer outra opção para WEB) para realizar a manobra das "cargas", respectivamente ao sistema de iluminação da residência no nosso caso.
 
+----
+
 # 2 - Materiais utilizados:
 
 + Arduino Mega 2560;
@@ -69,6 +71,7 @@ No **_Módulo Ethernet_**, o usuário utiliza um IP de Hospedagem próprio em se
 
 + Lâmpadas
 
+----
 
 # 3 - Código-Fonte: 
 
@@ -901,7 +904,8 @@ Projeto com a montagem final em placa MDF para suporte/fixação dos componentes
 ![Imagem](./imagens/circuito.jpg)
 
 ![Imagem](./imagens/casa.jpg)
+----
 
-# 5 - Link do Vídeo
+# 5 - Link do Vídeo:
 
 [Projeto Funcionando](https://www.youtube.com/watch?v=zsscLPNTAK8)
